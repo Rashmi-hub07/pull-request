@@ -1,0 +1,4 @@
+This repository is for:
+   - Pull request
+   - Push request
+   - And to practice the commands for thee same
